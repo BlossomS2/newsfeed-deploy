@@ -1,0 +1,9 @@
+@import 'reset.css';
+
+:root {
+  --baseFont: 'Paperlogy-8ExtraBold', 'arial', '돋움', '맑은 고딕';
+}
+
+body {
+  font-family: var(--baseFont);
+}
